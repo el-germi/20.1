@@ -1,0 +1,16 @@
+{
+    "name": "20.1",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "start": "nodemon ./bin/www"
+    },
+    "dependencies": {
+        "express": "^4.16.1",
+        "sqlite3": "^5.1.6",
+        "jsonwebtoken": "^9.0.2"
+    },
+    "devDependencies": {
+        "nodemon": "^3.0.1"
+    }
+}
